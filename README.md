@@ -1,4 +1,4 @@
-# EX05 Implementation of Logistic Regression Using Gradient-Descent
+# Implementation of Logistic Regression Using Gradient-Descent
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
